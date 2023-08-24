@@ -1,0 +1,26 @@
+[
+    {
+       "id": 1,
+      "JobTitle": "Ui Developer",      
+      "JobFunction": "delectus aut autem",
+      "JobType": "Permanent",
+      "Experience": "2 Years",
+      "Salary": 10,
+      "JobExpires": "1 Day",
+      "Skills": "Html",
+      "Company ": "Test",
+      "Location ": "Hydrabad"
+    },
+    {
+       "id": 2,
+       "JobTitle": "Web Developer",      
+       "JobFunction": "delectus aut autem",
+       "JobType": "Permanent",
+       "Experience": "2 Years",
+       "Salary": 10,
+       "JobExpires": "1 Day",
+       "Skills": "Html",
+       "Company ": "Test",
+       "Location ": "Hydrabad"
+     }
+]
